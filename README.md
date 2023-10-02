@@ -1,2 +1,5 @@
-# matrixmagic-transformer-talk
-Repo to go with my youtube video - Matrix Magic: Understanding Transformers with Matrices, Math, and Code.
+# Matrix Magic: Understanding Transformers with Matrices, Math, and Code.
+
+https://youtu.be/aXLIebCK0pE
+
+[![Matrix Magic: Understanding Transformers with Matrices, Math, and Code](https://img.youtube.com/vi/aXLIebCK0pE/0.jpg)](https://www.youtube.com/watch?v=aXLIebCK0pE)
